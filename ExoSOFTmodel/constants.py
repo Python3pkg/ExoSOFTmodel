@@ -1,4 +1,4 @@
-from __future__ import absolute_import
+
 import numpy as np
 ##Note: for the moment, these are doubly defined until camel case/underscore inconsistancies are cleaned up
 grav = Grav = 6.67384e-11 #from physics.nist.gov

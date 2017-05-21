@@ -1,6 +1,6 @@
 #@Author: Kyle Mede, kylemede@astron.s.u-tokyo.ac.jp or kylemede@gmail.com
-from __future__ import absolute_import
-from __future__ import print_function
+
+
 import numpy as np
 from .cytools import orbit, model_input_pars
 from .tools import  load_di_data, load_rv_data
